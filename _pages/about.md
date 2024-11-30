@@ -2,15 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Software Engineer. 
+subtitle: Software Engineer
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  <!-- more_info: > -->
-  <!--   <p>Ciudad Real - Madrid</p> -->
-  <!--   <p>Spain</p> -->
+  more_info: >
+  <p></p>
+  <p></p>
+  <p></p>
 
 
 news: false # includes a list of news items
