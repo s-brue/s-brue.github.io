@@ -53,22 +53,11 @@
       ]
     }
   ],
-  "education": [
-    {
-      "institution": "E.S.I University of Casttilla-La Mancha",
-      "location": "Ciudad Real, Spain",
-      "url": "https://esi.uclm.es/",
-      "area": "Computer Engineer",
-      "studyType": "Bachelor - Masters",
-      "startDate": "2003-09-01",
-      "endDate": "2010-08-01",
-    }
-  ],
   "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
+    "title": "Summaa Cum Laude",
+    "date": "2010",
+    "awarder": "E.S.I University of Casttilla-La Mancha",
+    "summary": "Final degree project. Modular Augment Reality System."
   }],
   "certificates": [{
     "name": "Certificate",
