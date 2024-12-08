@@ -155,15 +155,15 @@
       "icon": ""
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference"
-  }]
+  "interests": [
+    {
+      "name": "Amateur Musician and Guitarist."
+    },
+    {
+      "name": "Cinematography and Color Grading."
+    },
+    {
+      "name": "Healthy Lifestyle."
+    }
+  ]
 }
