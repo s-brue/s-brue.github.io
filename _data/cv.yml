@@ -22,7 +22,7 @@
       institution: Ericsson
       year: 2019-Present
       description:
-        - title:  Deep Packet Inspection
+        - title: Deep Packet Inspection
           contents:
             - Traffic analysis.
             - Real-time reporting of traffic statistics.
@@ -55,7 +55,6 @@
             - Traffic analysis and configuration.
             - TCP/IP over radio optimizations.
 
-
     - title: Teacher in the Master's program on video game programming
       institution: University of Castilla-La Mancha.
       year: 2011-2017
@@ -63,7 +62,6 @@
         - Modern C++.
         - Serialization.
         - Data strcutures for 3D representation.
-
 
     - title: Technologist
       institution: ORETO research group, University of Castilla-La Mancha.
@@ -78,8 +76,6 @@
           contents:
             - GNU/Linux administration.
             - WEB, CVS, DB, AUTH
-
-
 
 - title: Certifications
   type: time_table
@@ -99,8 +95,6 @@
       year: 2024
       description: Passing of Cloud Native Assessment on Global Cloud Native Critical skills page on Degreed for Developers, Delivery, Sales and Leaders.
 
-
-
 - title: Academic Interests
   type: nested_list
   contents:
@@ -109,7 +103,6 @@
     - title: Communications.
     - title: Concurrency.
     - title: Programming Languages.
-
 
 - title: Other Interests
   type: list
