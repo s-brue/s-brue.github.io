@@ -27,10 +27,11 @@
 	    "url": "https://www.ericsson.com/en/portfolio/cloud-software-and-services/cloud-core/packet-core/cloud-packet-core/packet-core-gateway",
 	    "startDate": "2019-01-01",
 	    "endDate": "Present",
-	    "summary": "Engineer in Packet Core. DPI and Traffic Optimization for EPG and PCG products."
+	    "summary": "Engineer in Packet Core. DPI and Traffic Optimization for EPG and PCG products.",
 	    "highlights": [
 		"Contributed to Deep Packet Inspection functionalities, including programming data structures, debugging utilities, and traffic analysis features.",
 		"Real-time reporting of traffic statistics and events",
+		"Fast Logging of internal events",
 		"Primary contribution in optimizing TCP over radio connections. Design and implementation. Conceiving one of the algorithms successfully used during the second phase of the product.",
 		"Developing a QUIC-based feature to enhance security in mobile connections.",
 		"Requisites, Design, Implementation, Performance anlysis and Optimizations",
