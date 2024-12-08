@@ -51,6 +51,33 @@
 	"Licenses Management Implemetation",
 	"Low Latency Software"
       ]
+    },
+    {
+      "name": "Teacher in the Master's program on video game programming",
+      "position": "Teacher",
+      "url": "https://www.uclm.es/conocimiento/cursos/cursoexpertodesarrollovideojuegos",
+      "startDate": "2011",
+      "endDate": "2017",
+      "summary": "I authored the chapters covering these topics in the books published from this course, which became the best-sellers in their category on Amazon for a couple of years.",
+      "highlights": [
+	"Modern C++",
+	"Serialization",
+	"Data Structures for 3D representation"
+      ]
+    },
+    {
+      "name": "Technologist at ORETO research group (University of Castilla-La Mancha)",
+      "position": "Technologist",
+      "url": "https://esi.uclm.es/index.php/investigaciom/grupos-de-investigacion/",
+      "startDate": "2009",
+      "endDate": "2011",
+      "summary": "For nearly two years, I was involved in developing a tool for positioning in a real-world environment and overlaying digital graphics (Augmented Reality).",
+      "highlights": [
+	"Custom Math Library",
+	"C++",
+	"OpenGL",
+	"OpenCV"
+      ]
     }
   ],
   "awards": [{
