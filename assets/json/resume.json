@@ -53,29 +53,56 @@
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "University",
-    "url": "https://institution.com/",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
+  "education": [
+    {
+      "institution": "E.S.I University of Casttilla-La Mancha",
+      "location": "Ciudad Real, Spain",
+      "url": "https://esi.uclm.es/",
+      "area": "Computer Engineer",
+      "studyType": "Bachelor - Masters",
+      "startDate": "2003-09-01",
+      "endDate": "2010-08-01",
+    }
+  ],
+  "certificates": [
+    {
+      "name": "BCSS - CNE Experienced Automation assessment 2024",
+      "date": "2024-11-01",
+      "issuer": "Ericsson",
+      "url": "https://www.credly.com/badges/dfd92180-1540-4dee-9807-4038988f7a10/linked_in_profile",
+      "icon": ""
+    },
+    {
+      "name": "BCSS - CNE Fundamental Automation assessment",
+      "date": "2024-11-01",
+      "issuer": "Ericsson",
+      "url": "https://www.credly.com/badges/a65da083-9bb5-43f3-8b9b-b2e2b141ecf1/linked_in_profile",
+      "icon": ""
+    },
+    {
+      "name": "Cloud Native Fundamental",
+      "date": "2024-08-01",
+      "issuer": "Ericsson",
+      "url": "https://www.credly.com/badges/a53845f4-f302-4d47-ba52-f903a7608e42/linked_in_profile",
+      "icon": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "Desarrollo de Videojuegos. Programación Gráfica",
+      "publisher": "Bubok",
+      "releaseDate": "2019-07-01",
+      "url": "https://www.amazon.es/Desarrollo-Videojuegos-enfoque-Pr%C3%A1ctico-Programaci%C3%B3n-ebook/dp/B07V87KYKK/",
+      "summary": ""
+    },
+    {
+      "name": "Desarrollo de Videojuegos. Técnicas Avanzadas",
+      "publisher": "Bubok",
+      "releaseDate": "2019-07-01",
+      "url": "https://www.amazon.es/Desarrollo-Videojuegos-enfoque-pr%C3%A1ctico-Avanzadas-ebook/dp/B07V5Z7B51",
+      "summary": ""
+    }
+  ],
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
