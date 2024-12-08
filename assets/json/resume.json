@@ -82,14 +82,14 @@
 	    "publisher": "Bubok",
 	    "releaseDate": "2019-07-01",
 	    "url": "https://www.amazon.es/Desarrollo-Videojuegos-enfoque-Pr%C3%A1ctico-Programaci%C3%B3n-ebook/dp/B07V87KYKK/",
-	    "summary": "",
+	    "summary": ""
 	},
 	{
 	    "name": "Desarrollo de Videojuegos. Técnicas Avanzadas",
 	    "publisher": "Bubok",
 	    "releaseDate": "2019-07-01",
 	    "url": "https://www.amazon.es/Desarrollo-Videojuegos-enfoque-pr%C3%A1ctico-Avanzadas-ebook/dp/B07V5Z7B51"
-	    "summary": "",
+	    "summary": ""
 	}
     ],
     "projects": [
@@ -98,7 +98,7 @@
 	    "summary": "Hesperia developed a state-of-the-art technology in security, video surveillance, and operations monitoring for infrastructure and public spaces",
 	    "highlights": ["security", "video surveillance", "operations monitoring"],
 	    "startDate": "2008-10-01",
-	    "endDate": "2010-02-01",
+	    "endDate": "2010-02-01"
 	}
     ],
     "languages": [
