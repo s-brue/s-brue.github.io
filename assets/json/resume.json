@@ -62,7 +62,6 @@
       "studyType": "Bachelor - Masters",
       "startDate": "2003-09-01",
       "endDate": "2010-08-01",
-      "highlights": ["Final degree project awarded with summa cum laude"]
     }
   ],
   "certificates": [
@@ -150,7 +149,7 @@
       "keywords": ["Illumination", "Color grading"]
     },
     {
-      "name": "Healthy Lifestyle",
+      "name": "Healthy Lifestyle"
     }
   ],
 }
