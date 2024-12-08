@@ -45,12 +45,12 @@
       institution: Blue Telecom (now LAUDE)
       year: 2011-2019
       description:
-        - title: [2011-2013] SASN (Service Aware Support Node)
+        - title: SASN (Service Aware Support Node)
           contents:
             - License Management implementation.
             - Low latency event and statistics generation and serialization.
             - General code maintenance.
-        - title: [2013-2019] DPI (Deep Packet Inspection) and Traffic Optimization
+        - title: DPI (Deep Packet Inspection) and Traffic Optimization
           contents:
             - Traffic analysis and configuration.
             - TCP/IP over radio optimizations.
