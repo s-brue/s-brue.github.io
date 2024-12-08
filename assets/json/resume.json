@@ -68,6 +68,7 @@
     {
       "name": "Technologist at ORETO research group (University of Castilla-La Mancha)",
       "position": "Technologist",
+      "location": "Ciudad Real, Spain",
       "url": "https://esi.uclm.es/index.php/investigaciom/grupos-de-investigacion/",
       "startDate": "2009",
       "endDate": "2011",
@@ -89,7 +90,7 @@
     "startDate": "2003-09-01",
     "endDate": "2010-08-01",
     "score": "",
-    "courses": [""]
+    "courses": ["Final degree project awarded with summa cum laude."]
   }],
   "certificates": [{
     "name": "Certificate",
