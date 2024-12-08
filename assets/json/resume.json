@@ -82,11 +82,14 @@
   ],
   "education": [{
     "institution": "E.S.I University of Castilla-La Mancha",
+    "location": "Ciudad Real, Spain",
     "url": "https://esi.uclm.es/",
     "area": "Computer Engineer",
-    "studyType": "Bachelor - Masters",
+    "studyType": "Bachelor",
     "startDate": "2003-09-01",
     "endDate": "2010-08-01",
+    "score": "",
+    "courses": [""]
   }],
   "certificates": [{
     "name": "Certificate",
