@@ -1,23 +1,24 @@
 {
   "basics": {
-    "name": "Sergio Pérez Camacho",
-    "label": "Software Engineer",
+    "name": "John Doe",
+    "label": "Programmer",
     "image": "",
-    "email": "brue@gmx.com",
-    "url": "https://brue.org",
-    "summary": "Software engineer with a strong interest in low latency, algorithms, data processing, and real-time rendering. Experienced in system design and programming, with a focus on performance, code correctness, and readability.",
+    "email": "john@gmail.com",
+    "phone": "(912) 555-4321",
+    "url": "https://johndoe.com",
+    "summary": "A summary of John Doe",
     "location": {
-      "city": "Ciudad Real",
-      "countryCode": "ES",
-      "region": "Spain"
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
     },
-    "profiles": [
-      {
-	"network": "Gitlab",
-	"username": "brue",
-	"url": "https://gitlab.com/brue"
-      }
-    ]
+    "profiles": [{
+      "network": "Twitter",
+      "username": "john",
+      "url": "https://twitter.com/john"
+    }]
   },
   "work": [{
     "name": "Company",
