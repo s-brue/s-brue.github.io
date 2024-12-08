@@ -19,7 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a software engineer with a strong interest in low latency, algorithms, data processing, and real-time rendering.
+I have a strong interest in low latency, algorithms, data processing, and real-time rendering.
 
 Experienced in system design and programming, with a focus on performance, code correctness, and readability.
 
+Currently working for Ericsson R&D in the Packet Core group.

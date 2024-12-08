@@ -12,8 +12,7 @@
     - title: Computer Engineer
       institution: University of Castilla-La Mancha
       year: 2010
-      description:
-        Final dree project awarded with summa cum laude.
+      description: Final dregree project awarded with summa cum laude.
 
 - title: Experience
   type: time_table
@@ -22,26 +21,96 @@
       institution: Ericsson
       year: 2019-Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title:  Deep Packet Inspection
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Traffic analysis.
+            - Real-time reporting of traffic statistics.
+            - Implementation of features and tools.
+        - title: TCP Optimizations
+          contents:
+            - TCP/IP over radio optimizations.
+        - title: QUIC
+          contents:
+            - Secure communications based on the QUIC protocol.
+        - title: Other
+          contents:
+            - Generic Data structures (C++).
+            - Concurrency utilities.
+            - Debugging utilies.
+            - Fast Logging implementation.
+            - Performance Analysis and improvements.
+
+    - title: Senior Software Developer
+      institution: Blue Telecom (now LAUDE)
+      year: 2011-2019
+      description:
+        - title: 2011 - 2013: SASN (Service Aware Support Node)
+          contents:
+            - License Management implementation.
+            - Low latency event and statistics generation and serialization.
+            - General code maintenance.
+        - title: 2013 - 2019: DPI (Deep Packet Inspection) and Traffic Optimization
+          contents:
+            - Traffic analysis and configuration.
+            - TCP/IP over radio optimizations.
+
+
+    - title: Teacher in the Master's program on video game programming
+      institution: University of Castilla-La Mancha.
+      year: 2011-2017
+      description:
+        - Modern C++.
+        - Serialization.
+        - Data strcutures for 3D representation.
+
+
+    - title: Technologist
+      institution: ORETO research group, University of Castilla-La Mancha.
+      year: 2009-2011
+      description:
+        - title: Software design and implementation
+          contents:
+            - Augmented Reality.
+            - Positioning.
+            - Real-time representation.
+        - title: Systems administration
+          contents:
+            - GNU/Linux administration.
+            - WEB, CVS, DB, AUTH
+
+
+
+- title: Certifications
+  type: time_table
+  contents:
+    - title: BCSS - CNE Experienced Automation assessment
+      institution: Ericsson
+      year: 2024
+      description: Received after successfully completion of the assessment for the Experienced Level in the CNE Automation Area.
+
+    - title: BCSS - CNE Fundamental Automation assessment
+      institution: Ericsson
+      year: 2024
+      description: Received after successfully completion of the assessment for the CNE Fundamental Automation Area.
+
+    - title: Cloud Native Fundamental
+      institution: Ericsson
+      year: 2024
+      description: Passing of Cloud Native Assessment on Global Cloud Native Critical skills page on Degreed for Developers, Delivery, Sales and Leaders.
 
 
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Software performance.
+       items:
+        - Performance analysis.
+        - Performance improvement.
+    - title: Real-time analysis and representation.
+    - title: Communications.
+    - title: Concurrency.
+    - title: Programming Languages.
 
 - title: Other Interests
   type: list
