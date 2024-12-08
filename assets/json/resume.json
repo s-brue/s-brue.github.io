@@ -1,5 +1,6 @@
 {
-   "name": "Sergio Pérez Camacho",
+  "basics": {
+    "name": "Sergio Pérez Camacho",
     "label": "Software Engineer",
     "image": "",
     "email": "brue@gmx.com",
