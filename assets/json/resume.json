@@ -1,36 +1,57 @@
 {
-  "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
+   "name": "Sergio Pérez Camacho",
+    "label": "Software Engineer",
     "image": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "https://johndoe.com",
-    "summary": "A summary of John Doe",
+    "email": "brue@gmx.com",
+    "url": "https://brue.org",
+    "summary": "Software engineer with a strong interest in low latency, algorithms, data processing, and real-time rendering. Experienced in system design and programming, with a focus on performance, code correctness, and readability.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Ciudad Real",
+      "countryCode": "ES",
+      "region": "Spain"
     },
-    "profiles": [{
-      "network": "Twitter",
-      "username": "john",
-      "url": "https://twitter.com/john"
-    }]
-  },
-  "work": [{
-    "name": "Company",
-    "position": "President",
-    "url": "https://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description",
-    "highlights": [
-      "Started the company"
+    "profiles": [
+      {
+	"network": "Gitlab",
+	"username": "brue",
+	"url": "https://gitlab.com/brue"
+      }
     ]
-  }],
+  },
+  "work": [
+    {
+      "name": "Senior Software Engineer at Ericsson",
+      "position": "Senior Software Engineer",
+      "url": "https://www.ericsson.com/en/portfolio/cloud-software-and-services/cloud-core/packet-core/cloud-packet-core/packet-core-gateway",
+      "startDate": "2019-01-01",
+      "endDate": "Present",
+      "summary": "Engineer in Packet Core. DPI and Traffic Optimization for EPG and PCG products.",
+      "highlights": [
+	"Contributed to Deep Packet Inspection functionalities, including programming data structures, debugging utilities, and traffic analysis features.",
+	"Real-time reporting of traffic statistics and events",
+	"Fast Logging of internal events",
+	"Primary contribution in optimizing TCP over radio connections. Design and implementation. Conceiving one of the algorithms successfully used during the second phase of the product.",
+	"Developing a QUIC-based feature to enhance security in mobile connections.",
+	"Requisites, Design, Implementation, Performance anlysis and Optimizations",
+	"Driving the new C++ features adoption"
+      ]
+    },
+    {
+      "name": "Software Engineer at Blue Telecom (now LAUDE)",
+      "position": "Software Designer",
+      "url": "https://laude.tech/",
+      "startDate": "2011-06-01",
+      "endDate": "2019-01-01",
+      "summary": "Working as a consultant at Ericsson.",
+      "highlights": [
+	"SASN (Service Aware Support Node)",
+	"DPI (Deep Packet Inspection)",
+	"Traffic Analysis and Optimization",
+	"Licenses Management Implemetation",
+	"Low Latency Software"
+      ]
+    }
+  ],
   "volunteer": [{
     "organization": "Organization",
     "position": "Volunteer",
