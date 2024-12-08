@@ -23,9 +23,3 @@ I'm a software engineer with a strong interest in low latency, algorithms, data 
 
 Experienced in system design and programming, with a focus on performance, code correctness, and readability.
 
-
-
-
-
-
-This site uses <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
