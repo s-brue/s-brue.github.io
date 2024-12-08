@@ -80,11 +80,13 @@
       ]
     }
   ],
-  "awards": [{
-    "title": "Summaa Cum Laude",
-    "date": "2010",
-    "awarder": "E.S.I University of Casttilla-La Mancha",
-    "summary": "Final degree project. Modular Augment Reality System."
+  "education": [{
+    "institution": "E.S.I University of Castilla-La Mancha",
+    "url": "https://esi.uclm.es/",
+    "area": "Computer Engineer",
+    "studyType": "Bachelor - Masters",
+    "startDate": "2003-09-01",
+    "endDate": "2010-08-01",
   }],
   "certificates": [{
     "name": "Certificate",
