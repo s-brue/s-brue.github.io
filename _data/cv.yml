@@ -105,9 +105,6 @@
   type: nested_list
   contents:
     - title: Software performance.
-       items:
-        - Performance analysis.
-        - Performance improvement.
     - title: Real-time analysis and representation.
     - title: Communications.
     - title: Concurrency.
