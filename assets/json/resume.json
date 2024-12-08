@@ -92,6 +92,15 @@
 	    "summary": "",
 	}
     ],
+    "projects": [
+	{
+	    "name": "Hesperia",
+	    "summary": "Hesperia developed a state-of-the-art technology in security, video surveillance, and operations monitoring for infrastructure and public spaces",
+	    "highlights": ["security", "video surveillance", "operations monitoring"],
+	    "startDate": "2008-10-01",
+	    "endDate": "2010-02-01",
+	}
+    ],
     "languages": [
 	{
 	    "language": "Spanish",
@@ -102,15 +111,6 @@
 	    "language": "English",
 	    "fluency": "Fluent",
 	    "icon": ""
-	}
-    ],
-    "projects": [
-	{
-	    "name": "Hesperia",
-	    "summary": "Hesperia developed a state-of-the-art technology in security, video surveillance, and operations monitoring for infrastructure and public spaces",
-	    "highlights": ["security", "video surveillance", "operations monitoring"],
-	    "startDate": "2008-10-01",
-	    "endDate": "2010-02-01",
 	}
     ]
 }

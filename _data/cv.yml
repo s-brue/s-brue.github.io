@@ -4,7 +4,8 @@
     - name: Full Name
       value: Sergio Pérez Camacho
     - name: Languages
-      value: Spanish, English
+      value: Spanish (mother tongue), English (fluent).
+      description: Software engineer with a strong interest in low latency, algorithms, data processing, and real-time rendering. Experienced in system design and programming, with a focus on performance, code correctness, and readability. Strong interest in security, general AI and future technologies. Autonomous and self-driven.
 
 - title: Education
   type: time_table
@@ -111,6 +112,7 @@
     - title: Communications.
     - title: Concurrency.
     - title: Programming Languages.
+
 
 - title: Other Interests
   type: list
