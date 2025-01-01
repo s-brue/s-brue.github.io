@@ -4,6 +4,7 @@ repo_description_lines_max: 2
 
 github_repos:
  - s-brue/PerfQuirer
- - s-brue/VRService
+ - s-brue/br
  - s-brue/rust-raytracer
+ - s-brue/VRService
  - Destrezas/SXPayloadPacker
