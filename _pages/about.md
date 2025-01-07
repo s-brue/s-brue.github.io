@@ -22,4 +22,6 @@ I have a strong interest in low latency, algorithms, data processing, and real-t
 
 Experienced in system design and programming, with a focus on performance, code correctness, and readability.
 
-Currently working for Ericsson R&D in the Packet Core group.
+Currently working for Ericsson R&D in the Packet Core group (Analytics and Optimizations).
+
+Here you can find my [public PGP key](https://brue.org/pgp).
