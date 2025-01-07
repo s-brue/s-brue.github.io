@@ -5,7 +5,7 @@ permalink: /pgp/
 ---
 
 
-``
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGd1W5MBEADupW/2Gwm+7GbqDccq5gSCjJVof7mL85hwDRzsxY/NjRXVL5YT
@@ -82,4 +82,4 @@ L4bjMLd5gitPX4IPNu8btmjOeHUw09qC0kLkH+mkmaI0iyGKzpwILQ7RdhFNxAyN
 3S3aqCB4Vs+A6jMtoQZPd7WAuENdRcTvbTpO09ABF95t
 =vrRv
 -----END PGP PUBLIC KEY BLOCK-----
-``
+```
