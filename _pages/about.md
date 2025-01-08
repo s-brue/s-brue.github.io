@@ -18,9 +18,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+<br>
+
 I have a strong interest in low latency, algorithms, data processing, and real-time rendering.
 
-Experienced in system design and programming, with a focus on performance, code correctness, and readability.
+Experienced in system design and programming, with a focus on performance, code correctness, and readability. I'm also a C++ advocate and deeply interested in this programming language.
+
+I studied Computer Engineering at the University of Castilla-La Mancha.
 
 Currently working for Ericsson R&D in the Packet Core group (Analytics and Optimizations).
 
